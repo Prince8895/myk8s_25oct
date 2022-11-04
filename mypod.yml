@@ -4,7 +4,7 @@ metadata:
    name: hello-pod
 spec: 
  containers:
-  - nmae: first-container
+  - name: first-container
     image: nginx
     port:
     - containerPort: 80
